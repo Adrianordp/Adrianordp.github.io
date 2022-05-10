@@ -1,0 +1,52 @@
+I"
+<p>Em 2009 começou seu curso de Engenharia Elétrica na UFC.</p>
+
+<p>Foi aprovado em julho de 2012 foi fazer um intercâmbio de 14 meses na Alemanha, na cidade de Colônia, estudando energias renováveis na Universidade de Ciências Aplicadas de Colônia.</p>
+
+<p>Concluiu a graduação em 2015 e seguiu com o seu mestrado na área de Controle &amp; Automação, finalizado em 2017.</p>
+
+<p>Foi professor universitário na UniFanor, onde ensinou disciplinas de Engenharia Elétrica.</p>
+
+<p>Em 2018 foi convidado pelo seu antigo orientador, prof. Dr. Fabrício Nogueira, para compor um grupo de P&amp;D em conjunto com o seu doutorado.</p>
+
+<p><a href="./about.html">Leia minha história completa aqui</a></p>
+
+<hr />
+
+<h1 id="projetos">Projetos</h1>
+<p>Abaixo segue a lista dos meus principais projetos.</p>
+
+<h2 id="profissionais">Profissionais</h2>
+<ul>
+  <li>Escrita de tese de doutorado “Controle Preditivo Economômico da partida baseada em óleo combustível de uma usina térmica a carvão”.
+    <ul>
+      <li>São obtidos modelos computacionais provindos de dados reais para simular a dinâmica de partida e minimizar o consumo de óleo combustível.</li>
+    </ul>
+  </li>
+  <li>Desenvolvimento de um software de manipulação de nuvem de pontos derivado do <a href="https://github.com/heremaps/pptk">pptk</a>.
+    <ul>
+      <li>Adição de atalhos de teclado, ferramentas de cortes, filtragem de dados, filtragem visual, enquadramento de janela em nova interface, etc…</li>
+      <li>Conhecimento utilizado: <a href="https://riverbankcomputing.com/software/pyqt/download">PyQt</a> (python) e <a href="https://www.qt.io/">Qt</a> (C++).</li>
+    </ul>
+  </li>
+  <li>Desenvimento de programa para comunicação com quadricóptero DJI para coleta de dados.
+    <ul>
+      <li>Comunicação SSH em ambiente Linux.</li>
+      <li>Conhecimento utilizado: python, <a href="https://docs.python.org/3/library/tkinter.html">tkinter</a>, SSH, redes de computadores e Bash Script.</li>
+    </ul>
+  </li>
+  <li>Desenvolvimento de website para empresa de energia solar <a href="http://jungleenergy.com.br">Jungle Energy</a>.
+    <ul>
+      <li>Desenvolvido em código sem auxílio de ferramentas de design WYSIWYG.</li>
+      <li>Conhecimento utilizado: <a href="https://code.visualstudio.com/">VS Code</a>, HTML, CSS, JavaScript, <a href="https://getbootstrap.com/">Bootstrap</a>, PHP, HTTPS, SEO, GIMP, trello e serviços de hospedagem de sites.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="acadêmicos">Acadêmicos</h2>
+
+<hr />
+
+<h1 id="certificados">Certificados</h1>
+<p>Texto</p>
+:ET

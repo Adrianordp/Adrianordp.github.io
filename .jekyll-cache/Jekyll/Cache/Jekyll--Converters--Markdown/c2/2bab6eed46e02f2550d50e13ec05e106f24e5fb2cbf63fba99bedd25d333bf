@@ -1,0 +1,99 @@
+I"3<p>Em 2009 começou seu curso de Engenharia Elétrica na <a href="https://www.ufc.br/">Universidade Federal do Ceará</a>.</p>
+
+<p>Foi aprovado em julho de 2012 foi fazer um intercâmbio de 14 meses na Alemanha, na cidade de Colônia, estudando energias renováveis na <a href="https://www.th-koeln.de/en/homepage_26.php">Universidade de Ciências Aplicadas de Colônia</a>.</p>
+
+<p>Concluiu a graduação em 2015 e seguiu com o seu mestrado na área de Controle &amp; Automação, finalizado em 2017.</p>
+
+<p>Foi professor universitário no <a href="https://www.unifanor.edu.br/unifanor">Centro Universitário UniFanor</a>, onde ensinou disciplinas de Engenharia Elétrica.</p>
+
+<p>Em 2018 foi convidado pelo seu antigo orientador, prof. Dr. Fabrício Gonzalez Nogueira, para compor um grupo de P&amp;D em conjunto com o seu doutorado.</p>
+
+<p><a href="./about.html">Leia minha história completa aqui</a></p>
+
+<hr />
+
+<h1 id="projetos">Projetos</h1>
+<p>Abaixo segue a lista dos meus principais projetos.</p>
+
+<h2 id="profissionais">Profissionais</h2>
+<ul>
+  <li>Escrita de tese de doutorado “Controle Preditivo Economômico da partida baseada em óleo combustível de uma usina térmica a carvão”.
+    <ul>
+      <li>São obtidos modelos computacionais provindos de dados reais para simular a dinâmica de partida e minimizar o consumo de óleo combustível.</li>
+      <li>Conhecimento utilizado: modelagem de sistemas lineares a parâmetros variantes, controle preditivo econômico, algoritmos de otmização e <a href="https://www.mathworks.com/products/matlab.html">MATLAB</a>.</li>
+    </ul>
+  </li>
+  <li>Desenvolvimento de um software de manipulação de nuvem de pontos derivado do <a href="https://github.com/heremaps/pptk">pptk</a>.
+    <ul>
+      <li>Adição de atalhos de teclado, ferramentas de cortes, filtragem de dados, filtragem visual, enquadramento de janela em nova interface, etc…</li>
+      <li>Conhecimento utilizado: <a href="https://riverbankcomputing.com/software/pyqt/download">PyQt</a> (python) e <a href="https://www.qt.io/">Qt</a> (C++).</li>
+    </ul>
+  </li>
+  <li>Desenvolvimento de programa para comunicação com quadricóptero DJI para coleta e armazenamento de dados.
+    <ul>
+      <li>Comunicação SSH em ambiente Linux.</li>
+      <li>Conhecimento utilizado: Python, <a href="https://docs.python.org/3/library/tkinter.html">Tkinter</a>, SSH, SQL, <a href="https://www.docker.com/">Docker</a>], redes de computadores e Bash Script.</li>
+    </ul>
+  </li>
+  <li>Desenvolvimento de um WebApp no formato de dashboard.
+    <ul>
+      <li>Exibição de gráficos para controle de estoque e análises estatísticas.</li>
+      <li>Comunicação com banco de dados.</li>
+      <li>Conhecimento utilizado: HTML, CSS, JavaScript, Bootstrap, SQL.</li>
+    </ul>
+  </li>
+  <li>Desenvolvimento de website para empresa de energia solar <a href="http://jungleenergy.com.br">Jungle Energy</a>.
+    <ul>
+      <li>Desenvolvido em código sem auxílio de ferramentas de design WYSIWYG.</li>
+      <li>Conhecimento utilizado: <a href="https://code.visualstudio.com/">VS Code</a>, HTML, CSS, JavaScript, <a href="https://getbootstrap.com/">Bootstrap</a>, PHP, HTTPS, SEO, <a href="https://www.gimp.org/">GIMP</a>, <a href="https://trello.com/">Trello</a> e serviços de hospedagem de sites.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="acadêmicos">Acadêmicos</h2>
+<ul>
+  <li>Previsão de potencial eólico visando operação integrada ótima de unidades geradoras de eletricidade: estudo de caso para o nordeste do Brasil.
+    <ul>
+      <li>Tratamento de dados coletados por estações meteorológicas publicados via internet.</li>
+      <li>Realização de filtros estatísticos para validar leituras.</li>
+      <li>Organização de matrizes de dados para implementação em redes neurais,</li>
+      <li>Desenvolvimento de interface gráfica para automação dos processos descritos acima.</li>
+      <li>Conhecimento utilizado: <a href="https://www.mathworks.com/products/matlab.html">MATLAB</a>.</li>
+    </ul>
+  </li>
+  <li>Sofware solucionador de cubo mágico por método de olhos vendados de <a href="https://www.speedcubereview.com/blind-solving-algorithms.html">Old Pochman</a>.
+    <ul>
+      <li>Desenvolvimento de interface gráfica para exibição do cubo mágico.</li>
+      <li>Função de solução guiada para o usuário praticar o método.</li>
+      <li>Conhecimento utilizado: <a href="https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/manual/intro_to_quartus2.pdf">Altera Quartus II</a>, <a href="https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&amp;CategoryNo=56&amp;No=121">Altera Cyclone II FPGA Starter Board</a>, VHDL e <a href="https://pt.wikipedia.org/wiki/Cubo_de_Rubik">Cubo de Rubik</a>.</li>
+    </ul>
+  </li>
+  <li>Projeto, desenvolvimento teórico e montagem de componentes anaçógicos para periféricos de guitarra.
+    <ul>
+      <li>Pedaleira.</li>
+      <li>Afinador.</li>
+      <li>Equalizador de graves e agudos.</li>
+      <li>Conhecimento utilizado: <a href="https://powersimtech.com/products/psim/capabilities-applications/">PSIM</a>, <a href="https://www.labcenter.com/">Proteus</a>, notas musicais, análise em frequência, design de PCB, filtros ativos e eletrônica analógica.</li>
+    </ul>
+  </li>
+  <li>Projeto, desenvolvimento de software e montagem em diorama de um sistema de automação residencial por meio de portas inteligentes com apenas um microcontrolador conectado a um computador pessoal.
+    <ul>
+      <li>Iluminação automática</li>
+      <li>Supervisão de cômodos por contagem de pessoas</li>
+      <li>Alarme de invasão.</li>
+      <li>Conhecimento utilizado: <a href="https://www.microchip.com/en-us/product/PIC16F628A">PIC16F628a</a>, <a href="https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide">MPLAB</a>, <a href="https://emu8086.en.lo4d.com">Emu8086</a>, <a href="https://www.labcenter.com/">Proteus</a>, Assembly e eletrônica digital.</li>
+    </ul>
+  </li>
+  <li>Análise de controle de estabilidade de um robô móvel baseado em um pêndulo invertido sobre duas rodas.
+    <ul>
+      <li>Estudo teórico em simulação para implantação em modelo impresso 3D.</li>
+      <li>Conhecimento utilizado: teoria de controle e <a href="https://www.mathworks.com/products/matlab.html">MATLAB</a>.</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h1 id="certificados">Certificados</h1>
+<p>Texto</p>
+:ET
