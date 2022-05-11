@@ -2,11 +2,11 @@
 layout: default
 ---
 
-Em 2009 começou seu curso de Engenharia Elétrica na [Universidade Federal do Ceará](https://www.ufc.br/).
+Em 2009, começou seu curso de Engenharia Elétrica na [Universidade Federal do Ceará](https://www.ufc.br/).
 
-Foi aprovado em julho de 2012 foi fazer um intercâmbio de 14 meses na Alemanha, na cidade de Colônia, estudando energias renováveis na [Universidade de Ciências Aplicadas de Colônia](https://www.th-koeln.de/en/homepage_26.php).
+Foi aprovado em julho de 2012 para fazer um intercâmbio de 14 meses na Alemanha, na cidade de Colônia, estudando energias renováveis na [Universidade de Ciências Aplicadas de Colônia](https://www.th-koeln.de/en/homepage_26.php).
 
-Concluiu a graduação em 2015 e seguiu com o seu mestrado na área de Controle & Automação, finalizado em 2017.
+Concluiu a graduação em 2015 e seguiu com o seu mestrado na área de Controle & Automação, finalizado-o em 2017.
 
 Foi professor universitário no [Centro Universitário UniFanor](https://www.unifanor.edu.br/unifanor), onde ensinou disciplinas de Engenharia Elétrica.
 
