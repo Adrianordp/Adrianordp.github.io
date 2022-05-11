@@ -10,7 +10,7 @@ Concluiu a graduação em 2015 e seguiu com o seu mestrado na área de Controle 
 
 Foi professor universitário no [Centro Universitário UniFanor](https://www.unifanor.edu.br/unifanor), onde ensinou disciplinas de Engenharia Elétrica.
 
-Em 2018 foi convidado pelo seu antigo orientador, prof. Dr. Fabrício Gonzalez Nogueira, para compor um grupo de P&D em conjunto com o seu doutorado.
+Em 2018, foi convidado pelo seu antigo orientador, prof. Dr. Fabrício Gonzalez Nogueira, para compor um grupo de P&D em conjunto com o seu doutorado.
 
 [Leia minha história completa aqui](./about.html)
 
