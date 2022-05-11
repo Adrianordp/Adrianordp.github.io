@@ -65,4 +65,4 @@ Abaixo segue a lista dos meus principais projetos.
 ---
 
 # Certificados
-Texto
+[Clique aqui](./certificates) para ver minha lista de certificados.

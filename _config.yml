@@ -1,5 +1,5 @@
 title: Me. Adriano Rodrigues
-logo: /assets/img/logo.png
+logo: /assets/img/adriano.png
 description:
   Engenheiro Eletricista <br>
   Desenvolvedor python <br>
@@ -12,3 +12,5 @@ description:
 baseurl: ""
 google_analytics:
 theme: jekyll-theme-minimal
+plugins:
+- jekyll-seo-tag
