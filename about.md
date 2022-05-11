@@ -20,4 +20,4 @@ Em 2018 deixou o magistério a convite de seu antigo orientador de graduação e
 
 Durante o P&D refinou suas habilidades computacionais utilizando liguagens de programação como Python, C++, JavaScript e liguagens de marcação como HTML, CSS, Markdown e LaTeX.
 
-[voltar](./)
+[voltar](/)
