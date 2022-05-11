@@ -21,20 +21,22 @@ Abaixo segue a lista dos meus principais projetos.
 
 ## Profissionais
 - Escrita de tese de doutorado "Controle Preditivo Economômico da partida baseada em óleo combustível de uma usina térmica a carvão".
-  - São obtidos modelos computacionais provindos de dados reais para simular a dinâmica de partida e minimizar o consumo de óleo combustível.
+  - Obtenção de modelos computacionais provindos de dados reais para simular a dinâmica de partida e minimização do consumo de óleo combustível.
   - Conhecimento utilizado: modelagem de sistemas lineares a parâmetros variantes, controle preditivo econômico, algoritmos de otmização, [MATLAB](https://www.mathworks.com/products/matlab.html), Git e [GitHub](https://github.com/).
 - Desenvolvimento de um software de manipulação de nuvem de pontos derivado do [pptk](https://github.com/heremaps/pptk).
   - Adição de atalhos de teclado, ferramentas de cortes, filtragem de dados, filtragem visual, enquadramento de janela em nova interface, etc...
+  - Comunicação com API de banco de dados para leitura e armazenamento dos dados.
   - Conhecimento utilizado: [PyQt](https://riverbankcomputing.com/software/pyqt/download), Python, [Qt](https://www.qt.io/), C++, Git e [GitHub](https://github.com/).
 - Desenvolvimento de programa para comunicação com quadricóptero DJI para coleta e armazenamento de dados.
   - Comunicação SSH em ambiente Linux.
+  - Comunicação com API de banco de dados para armazenamento de informações coletadas.
   - Conhecimento utilizado: Python, [Tkinter](https://docs.python.org/3/library/tkinter.html), SSH, SQL, [Docker](https://www.docker.com/)], redes de computadores, Bash Script, Git e [GitHub](https://github.com/).
 - Desenvolvimento de um WebApp no formato de dashboard.
   - Exibição de gráficos para controle de estoque e análises estatísticas.
   - Comunicação com banco de dados.
   - Conhecimento utilizado: HTML, CSS, JavaScript, [Bootstrap](https://getbootstrap.com/), [D3.js](https://d3js.org/), SQL, Git e [GitHub](https://github.com/).
 - Desenvolvimento de website para empresa de energia solar [Jungle Energy](http://jungleenergy.com.br).
-  - Desenvolvido em código sem auxílio de ferramentas de design WYSIWYG.
+  - Desenvolvimento de website em código sem auxílio de ferramentas de design de gênero [WYSIWYG](https://en.m.wikipedia.org/wiki/WYSIWYG).
   - Conhecimento utilizado: [VS Code](https://code.visualstudio.com/), HTML, CSS, JavaScript, [Bootstrap](https://getbootstrap.com/), PHP, HTTPS, SEO, [GIMP](https://www.gimp.org/), [Trello](https://trello.com/), serviços de hospedagem de sites, Git e [GitHub](https://github.com/).
 
 ## Acadêmicos
