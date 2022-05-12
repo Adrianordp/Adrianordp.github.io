@@ -62,7 +62,7 @@ Abaixo segue a lista dos meus principais projetos.
   - Conhecimento utilizado: [PIC16F628a](https://www.microchip.com/en-us/product/PIC16F628A), [MPLAB](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide), [Emu8086](https://emu8086.en.lo4d.com), [Proteus](https://www.labcenter.com/), [MPASM Assembler](https://ww1.microchip.com/downloads/en/DeviceDoc/33014L.pdf) e eletrônica digital.
 - Análise de controle de estabilidade de um robô móvel baseado em um pêndulo invertido sobre duas rodas.
   - Desenvolvimento teórico e simulações para implementação em modelo impresso 3D.
-  - Conhecimento utilizado: teoria de controle e [MATLAB](https://www.mathworks.com/products/matlab.html).
+  - Conhecimento utilizado: teoria de controle, [Arduino](https://www.arduino.cc/), [C++](https://isocpp.org/) e [MATLAB](https://www.mathworks.com/products/matlab.html).
 
 ---
 
