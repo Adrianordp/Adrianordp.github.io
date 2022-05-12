@@ -9,5 +9,8 @@ layout: default
     - [Usando Python para automação](./CertificateOfCompletion_Using%20Python%20for%20Automation.pdf)
 - C#
     - [C#: Práticas avançadas](./CertificateOfCompletion_C%20Advanced%20Practices.pdf)
+- Automation
+    - Become a PLC Developer (Learning Path)
+        - [Learning Industrial Automation](./CertificateOfCompletion_Learning%20Industrial%20Automation.pdf)
 
 [voltar](/)
