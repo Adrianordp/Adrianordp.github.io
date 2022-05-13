@@ -8,7 +8,7 @@ layout: default_english
 
 - Python
     - [Building tools with Python](/certificates/CertificateOfCompletion_Building%20Tools%20with%20Python.pdf)
-    - [Usando Python para automação](/certificates/CertificateOfCompletion_Using%20Python%20for%20Automation.pdf)
+    - [Using Python for Automation](/certificates/CertificateOfCompletion_Using%20Python%20for%20Automation.pdf)
 - C#
     - [C#: advanced practices](/certificates/CertificateOfCompletion_C%20Advanced%20Practices.pdf)
 - Automation
