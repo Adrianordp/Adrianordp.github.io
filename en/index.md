@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_english
 ---
 <div style="text-align: right"> [english <a href='/'>pt-br</a>] </div>
 

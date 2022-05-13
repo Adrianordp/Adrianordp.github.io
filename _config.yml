@@ -1,7 +1,8 @@
 title: Me. Adriano Rodrigues
+title_english: MSc. Adriano Rodrigues
 logo: /assets/img/adriano.png
 description:
-  Engenheiro Eletricista com ênfase em Controle & Automação<br>
+  Engenheiro Eletricista<br>
   Desenvolvedor Python <br>
   Desenvolvedor Web <br>
   <br>
@@ -10,6 +11,16 @@ description:
   <br>
   <a href="https://www.linkedin.com/in/adrianordp/">Meu perfil LinkedIn</a> <br>
   <a href="https://www.github.com/adrianordp/">Meu perfil GitHub</a>
+description_english:
+  Electrical Engineer<br>
+  Python Developer<br>
+  Web Developer<br>
+  <br>
+  Master in Control & Automation <br>
+  Doctoral student in Control & Automation <br>
+  <br>
+  <a href="https://www.linkedin.com/in/adrianordp/">My LinkedIn profile</a> <br>
+  <a href="https://www.github.com/adrianordp/">My GitHub profile</a>
 baseurl: ""
 google_analytics:
 theme: jekyll-theme-minimal
