@@ -18,8 +18,8 @@ However, he never put aside his taste for programming and theoretical mathematic
 
 Upon finishing his master's degree in 2017, he gained experience as professor at [UniFanor University Center](https://www.unifanor.edu.br/unifanor), where he taught in total more than 10 different subjects of Electrical Engineering for students of the courses of Electrical, Control & Automation, Mechanical and Chemical engineering. His prominence led to a promotion to full-time professor, which gave him an administrative role along with the coordination of the Electrical Engineering course.
 
-In 2018, he left the majistery due to the invitation of his former undergraduate and master's advisor, prof. PhD. Fabrício Gonzalez Nogueira, to compose a [Research & Development](https://en.wikipedia.org/wiki/Research_and_development) -- R&D group inside GPAR's dependecies and, at the same time, start his doctorate, still in the ​​Control & Automation research field.
+In 2018, he left the teaching profession due to the invitation of his former undergraduate and master's advisor, prof. PhD. Fabrício Gonzalez Nogueira, to compose a [Research & Development](https://en.wikipedia.org/wiki/Research_and_development) -- R&D group inside GPAR's dependencies and, at the same time, start his doctorate, still in the ​​Control & Automation research field.
 
-During his R&D and PhD timespan, he improved his computational skills using programming languages ​​like Python, C++, JavaScript and markup languages ​​like HTML, CSS, Markdown and LaTeX, among many other computational tools.
+During his R&D and PhD time span, he improved his computational skills using programming languages ​​like Python, C++, JavaScript and markup languages ​​like HTML, CSS, Markdown and LaTeX, among many other computational tools.
 
 [< back](./)
