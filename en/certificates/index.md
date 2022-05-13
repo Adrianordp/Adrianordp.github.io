@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<!-- [< back](../) -->
+
 # List of certificates
 
 - Python
@@ -13,4 +15,4 @@ layout: default
     - Become a PLC Developer (Learning Path)
         - [Learning Industrial Automation](/certificates/CertificateOfCompletion_Learning%20Industrial%20Automation.pdf)
 
-[back](../)
+[< back](../)

@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<!-- [< voltar](/) -->
+
 # Lista de Certificados
 
 - Python
@@ -13,4 +15,4 @@ layout: default
     - Torn-se um desenvolvedor de CLP (Learning Path)
         - [Aprendendo automação industrial](./CertificateOfCompletion_Learning%20Industrial%20Automation.pdf)
 
-[voltar](/)
+[< voltar](/)

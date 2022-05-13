@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[voltar](/)
+[< voltar](/)
 
 ## Sobre mim
 
@@ -22,4 +22,4 @@ Em 2018, deixou o magistério a convite de seu antigo orientador de graduação 
 
 Durante o período de P&D e doutorado, refinou suas habilidades computacionais utilizando linguagens de programação como Python, C++, JavaScript e linguagens de marcação como HTML, CSS, Markdown e LaTeX, dentre muitas outras ferramentas.
 
-[voltar](/)
+[< voltar](/)
