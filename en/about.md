@@ -1,10 +1,8 @@
 ---
 layout: default
 ---
-
-[voltar](/)
-
-## Sobre mim
+[back](./)
+## About me
 
 Adriano Rodrigues de Paula nasceu em Caucaia, cidade metropolitana de Fortaleza. Desde criança é bastante interessado em aprender novos _hobbies_ e adquirir conhecimento diversificado em matemática, biologia, história e geografia. Entretanto, foi na tecnologia que encontrou sua identidade, buscando sempre satisfazer sua curiosidade a respeito de mecanismos e eletrônicos.
 
@@ -22,4 +20,4 @@ Em 2018, deixou o magistério a convite de seu antigo orientador de graduação 
 
 Durante o período de P&D e doutorado, refinou suas habilidades computacionais utilizando linguagens de programação como Python, C++, JavaScript e linguagens de marcação como HTML, CSS, Markdown e LaTeX, dentre muitas outras ferramentas.
 
-[voltar](/)
+[back](./)

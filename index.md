@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<div style="text-align: right"> [<a href='/en/'>english</a> pt-br] </div>
 
 Em 2009, começou seu curso de Engenharia Elétrica na [Universidade Federal do Ceará](https://www.ufc.br/).
 
@@ -23,7 +24,7 @@ Abaixo segue a lista dos meus principais projetos.
 - Escrita de tese de doutorado "Controle Preditivo Economômico da partida baseada em óleo combustível de uma usina térmica a carvão".
   - Desenvolvimento teórico e automação.
   - Obtenção de modelos computacionais provindos de dados reais para simular a dinâmica de partida e minimização do consumo de óleo combustível.
-  - Conhecimento utilizado: modelagem de sistemas lineares a parâmetros variantes, controle preditivo econômico, algoritmos de otmização, [MATLAB](https://www.mathworks.com/products/matlab.html), [Git](https://git-scm.com/) e [GitHub](https://github.com/).
+  - Conhecimento utilizado: modelagem de sistemas lineares a parâmetros variantes, controle preditivo econômico, algoritmos de otmização, [MATLAB](https://www.mathworks.com/products/matlab.html), [Simulink](https://www.mathworks.com/products/simulink.html), [Git](https://git-scm.com/) e [GitHub](https://github.com/).
 - Manipulador de nuvem de pontos derivado do [pptk](https://github.com/heremaps/pptk).
   - Desenvolvimento teórico, desenvolvimento de software e interface gráfica.
   - Adição de atalhos de teclado, ferramentas de corte de nuvem de pontos, filtragem de dados, filtragem visual, enquadramento de janela em nova interface, etc...
@@ -62,7 +63,7 @@ Abaixo segue a lista dos meus principais projetos.
   - Conhecimento utilizado: [PIC16F628a](https://www.microchip.com/en-us/product/PIC16F628A), [MPLAB](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide), [Emu8086](https://emu8086.en.lo4d.com), [Proteus](https://www.labcenter.com/), [MPASM Assembler](https://ww1.microchip.com/downloads/en/DeviceDoc/33014L.pdf) e eletrônica digital.
 - Análise de controle de estabilidade de um robô móvel baseado em um pêndulo invertido sobre duas rodas.
   - Desenvolvimento teórico e simulações para implementação em modelo impresso 3D.
-  - Conhecimento utilizado: teoria de controle, [Arduino](https://www.arduino.cc/), [C++](https://isocpp.org/) e [MATLAB](https://www.mathworks.com/products/matlab.html).
+  - Conhecimento utilizado: teoria de controle, [Arduino](https://www.arduino.cc/), [C++](https://isocpp.org/), [MATLAB](https://www.mathworks.com/products/matlab.html) e [Simulink](https://www.mathworks.com/products/simulink.html).
 
 ---
 
