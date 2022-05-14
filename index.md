@@ -21,7 +21,7 @@ Em 2018, foi convidado pelo seu antigo orientador, prof. Dr. Fabrício Gonzalez 
 Abaixo segue a lista dos meus principais projetos.
 
 ## Profissionais
-- Escrita de tese de doutorado "Controle Preditivo Economômico da partida baseada em óleo combustível de uma usina térmica a carvão".
+- Escrita de tese de doutorado "Controle Preditivo Econômico da partida baseada em óleo combustível de uma usina térmica a carvão".
   - Desenvolvimento teórico e automação.
   - Obtenção de modelos computacionais provindos de dados reais para simular a dinâmica de partida e minimização do consumo de óleo combustível.
   - Conhecimento utilizado: modelagem de sistemas lineares a parâmetros variantes, controle preditivo econômico, algoritmos de otmização, [MATLAB](https://www.mathworks.com/products/matlab.html), [Simulink](https://www.mathworks.com/products/simulink.html), [Git](https://git-scm.com/) e [GitHub](https://github.com/).
