@@ -17,5 +17,6 @@ layout: default_english
         - [Learning PLC ladder logic](/certificates/CertificateOfCompletion_Learning%20PLC%20Ladder%20Logic.pdf)
         - [CLP ladder logic essential training](/certificates/CertificateOfCompletion_PLC%20Ladder%20Logic%20Essential%20Training.pdf)
         - [PLC memory organization](/certificates/CertificateOfCompletion_PLC%20Memory%20Organization.pdf)
+        - [PLC sequencer logic](/certificates/CertificateOfCompletion_PLC%20Sequencer%20Logic.pdf)
 
 [< back](../)

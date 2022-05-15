@@ -17,5 +17,6 @@ layout: default
         - [Aprendendo a lógica ladder de CLP](./CertificateOfCompletion_Learning%20PLC%20Ladder%20Logic.pdf)
         - [Treinamento essencial em lógica ladder de CLP](./CertificateOfCompletion_PLC%20Ladder%20Logic%20Essential%20Training.pdf)
         - [Organização de memória de CLP](./CertificateOfCompletion_PLC%20Memory%20Organization.pdf)
+        - [Lógica de sequenciador de CLP](./CertificateOfCompletion_PLC%20Sequencer%20Logic.pdf)
 
 [< voltar](/)
