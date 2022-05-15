@@ -15,5 +15,6 @@ layout: default_english
     - Become a PLC developer (Learning Path)
         - [Learning industrial automation](/certificates/CertificateOfCompletion_Learning%20Industrial%20Automation.pdf)
         - [Learning PLC ladder logic](/certificates/CertificateOfCompletion_Learning%20PLC%20Ladder%20Logic.pdf)
+        - [CLP ladder logic essential training](/certificates/CertificateOfCompletion_PLC%20Ladder%20Logic%20Essential%20Training.pdf)
 
 [< back](../)
