@@ -31,7 +31,7 @@ Here is a list of my main projects.
   - Communicating with _application programming interface_  -- [API](https://wikipedia.org/wiki/API) to read and store information on a SQL database.
   - Expertise: [PyQt](https://riverbankcomputing.com/software/pyqt/download), [Python](https://www.python.org/), [Qt](https://www.qt.io/), [C++](https://isocpp.org/), [SSH](https://www.ssh.com/), [SQL](https://www.iso.org/standard/63555.html), [Git](https://git-scm.com/), and [GitHub](https://github.com/).
 - Communication interface for a DJI quadcopter for data collection and storage.
-  - DTheoretical design, software development and graphic design.
+  - Theoretical design, software development and graphic design.
   - SSH protected communication in Linux environment and queries to SQL database via [API](https://wikipedia.org/wiki/API) to store and collected information.
   - Expertise [Python](https://www.python.org/), [Tkinter](https://docs.python.org/3/library/tkinter.html), [SSH](https://www.ssh.com/), [SQL](https://www.iso.org/standard/63555.html), [Docker](https://www.docker.com/), computer networks, [Bash](https://www.gnu.org/software/bash/), [Git](https://git-scm.com/), and [GitHub](https://github.com/).
 - [Dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))-styled [WebApp](https://en.wikipedia.org/wiki/Web_application).
