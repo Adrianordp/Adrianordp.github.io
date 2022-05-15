@@ -22,7 +22,7 @@ description_english:
   <a href="https://www.linkedin.com/in/adrianordp/">My LinkedIn profile</a> <br>
   <a href="https://www.github.com/adrianordp/">My GitHub profile</a>
 baseurl: ""
-google_analytics:
+google_analytics: True
 theme: jekyll-theme-minimal
 plugins:
 - jekyll-seo-tag
