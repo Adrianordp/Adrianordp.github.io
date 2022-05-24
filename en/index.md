@@ -21,7 +21,7 @@ In 2018 he started his PhD at UFC by composing an R&D group at the GPAR-UFC labo
 Here is a list of my main projects.
 
 ## Professional works
-- Doctoral thesis “Economic Model Predictive Control of Fuel Oil-Based Startup of a Coal-fired Thermal Power Plant”.
+- Doctoral dissertation “Economic Model Predictive Control of Fuel Oil-Based Startup of a Coal-fired Thermal Power Plant”.
   - Theoretical design and automation.
   - Computational modeling from real data to simulate the start-up dynamics and minimization of fuel oil consumption.
   - Expertise: modeling of linear parameter-varying systems, economic model predictive control, optimization algorithms, [MATLAB](https://www.mathworks.com/products/matlab.html), [Simulink](https://www.mathworks.com/products/simulink.html), [Git](https://git-scm.com/), and [GitHub](https://github.com/).
@@ -49,7 +49,7 @@ Here is a list of my main projects.
   - Meteorological data acquisition from internet. Development of statistical filters for sensor data validation. Data processing for neural network input format.
   - Automation of the processes described above.
   - Expertise: [MATLAB](https://www.mathworks.com/products/matlab.html).
-- [Rubik's cube](https://en.wikipedia.org/wiki/Rubik%27s_Cube) solver via [Old Pochman](https://www.speedcubereview.com/blind-solving-algorithms.html)'s blindfolded method .
+- [Rubik's cube](https://en.wikipedia.org/wiki/Rubik%27s_Cube) solver via [Old Pochman](https://www.speedcubereview.com/blind-solving-algorithms.html)'s blindfolded method.
   - Theoretical design, software development and grapic design.
   - Graphical interface with Rubik's Cube feature and guided solution for the user to practice the method.
   - Expertise: [Altera Quartus II](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/manual/intro_to_quartus2.pdf), [Altera Cyclone II FPGA Starter Board](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=56&No=121), [VHDL](https://ieeexplore.ieee.org/document/159455) e [Rubik's cube](https://en.wikipedia.org/wiki/Rubik%27s_Cube).
