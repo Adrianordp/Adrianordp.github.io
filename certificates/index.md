@@ -9,6 +9,7 @@ layout: default
 - Python
     - Torne-se um engenheiro de Aprendizado de Máquina (Learning Path)
         - [Fundações em Inteligência Artificial: máquinas pensantes](./CertificateOfCompletion_Artificial%20Intelligence%20Foundations%20Thinking%20Machines.pdf)
+        - [Fundações em Inteligência Artificial: aprendizado de máquina](./CertificateOfCompletion_Artificial%20Intelligence%20Foundations%20Machine%20Learning.pdf)
     - [Construção de ferramentas com Python](./CertificateOfCompletion_Building%20Tools%20with%20Python.pdf)
     - [Usando Python para automação](./CertificateOfCompletion_Using%20Python%20for%20Automation.pdf)
     - [Python Avançado](./CertificateOfCompletion_Advanced%20Python.pdf)
