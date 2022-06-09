@@ -10,6 +10,12 @@ layout: default_english
     - Become a Machine Learning engineer (Learning Path)
         - [Artificial Intelligence Foundations: thinking machines](/certificates/CertificateOfCompletion_Artificial%20Intelligence%20Foundations%20Thinking%20Machines.pdf)
         - [Artificial Intelligence Foundations: machine learning](/certificates/CertificateOfCompletion_Artificial%20Intelligence%20Foundations%20Machine%20Learning.pdf)
+        - [Machine Learning with Python: foundations](/certificates/CertificateOfCompletion_Machine%20Learning%20with%20Python%20Foundations.pdf)
+        - Deep Learning: getting started
+        - Reinforcement Learning foundations
+        - Building and deploying Deep Learning application with TensorFlow
+        - Training Neural Networks in Python
+        - Developing chatbots with Azure
     - [Building tools with Python](/certificates/CertificateOfCompletion_Building%20Tools%20with%20Python.pdf)
     - [Using Python for automation](/certificates/CertificateOfCompletion_Using%20Python%20for%20Automation.pdf)
     - [Advanced Python](/certificates/CertificateOfCompletion_Advanced%20Python.pdf)

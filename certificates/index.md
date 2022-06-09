@@ -9,7 +9,13 @@ layout: default
 - Python
     - Torne-se um engenheiro de Aprendizado de Máquina (Learning Path)
         - [Fundações em Inteligência Artificial: máquinas pensantes](./CertificateOfCompletion_Artificial%20Intelligence%20Foundations%20Thinking%20Machines.pdf)
-        - [Fundações em Inteligência Artificial: aprendizado de máquina](./CertificateOfCompletion_Artificial%20Intelligence%20Foundations%20Machine%20Learning.pdf)
+        - [Fundações em Inteligência Artificial: Aprendizado de Máquina](./CertificateOfCompletion_Artificial%20Intelligence%20Foundations%20Machine%20Learning.pdf)
+        - [Aprendizado de Máquina com Python: fundamentos](./CertificateOfCompletion_Machine%20Learning%20with%20Python%20Foundations.pdf)
+        - Aprendizado Profundo: introdução
+        - Fundações em Aprendizado por Reforço
+        - Construindo e implantando aplicação de Aprendizado Profundo com TensorFlow
+        - Treinando Rede Neural em Python
+        - Desenvolvendo chatbots com Azure
     - [Construção de ferramentas com Python](./CertificateOfCompletion_Building%20Tools%20with%20Python.pdf)
     - [Usando Python para automação](./CertificateOfCompletion_Using%20Python%20for%20Automation.pdf)
     - [Python Avançado](./CertificateOfCompletion_Advanced%20Python.pdf)
