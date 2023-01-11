@@ -31,6 +31,7 @@ layout: default
     - [C++: Templates e a STL](./CertificateOfCompletion_C%20Templates%20and%20the%20STL.pdf)
 - Linux
     - [Drivers do dispositivo Linux](./CertificateOfCompletion_Linux%20Device%20Drivers%20.pdf)
+    - [Treinamento em Linux Embarcado](./EmbeddedLinux_EmbeddedLabWorks.pdf)
 - C#
     - [C#: Práticas avançadas](./CertificateOfCompletion_C%20Advanced%20Practices.pdf)
 - Automação

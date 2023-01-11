@@ -33,6 +33,7 @@ layout: default_english
     - [C++: Templates and the STL](/certificates/CertificateOfCompletion_C%20Templates%20and%20the%20STL.pdf)
 - Linux
     - [Linux Device Drivers](/certificates/CertificateOfCompletion_Linux%20Device%20Drivers%20.pdf)
+    - [Embedded Linux](/certificates/EmbeddedLinux_EmbeddedLabWorks.pdf)
 - C#
     - [C#: advanced practices](/certificates/CertificateOfCompletion_C%20Advanced%20Practices.pdf)
 - Automation
