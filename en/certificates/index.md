@@ -17,6 +17,7 @@ layout: default_english
     - [TensorFlow: Neural Networks and Working with Tables](/certificates/CertificateOfCompletion_TensorFlow%20Neural%20Networks%20and%20Working%20with%20Tables.pdf)
     - [Machine Learning with Python: foundations](/certificates/CertificateOfCompletion_Machine%20Learning%20with%20Python%20Foundations.pdf)
     - [Building and deploying Deep Learning application with TensorFlow](/certificates/CertificateOfCompletion_Building%20and%20Deploying%20Deep%20Learning%20Applications%20with%20TensorFlow.pdf)
+    - Deep Learning: model optimization and tuning
     - Reinforcement Learning: foundations
     - Training Neural Networks in Python
     - Developing chatbots with Azure
@@ -28,10 +29,10 @@ layout: default_english
     - [Advanced Python](/certificates/CertificateOfCompletion_Advanced%20Python.pdf)
 
 - C++
-    - [C++: Advanced Topics](./CertificateOfCompletion_C%20Advanced%20Topics.pdf)
-    - [C++: Templates and the STL](./CertificateOfCompletion_C%20Templates%20and%20the%20STL.pdf)
+    - [C++: Advanced Topics](/certificates/CertificateOfCompletion_C%20Advanced%20Topics.pdf)
+    - [C++: Templates and the STL](/certificates/CertificateOfCompletion_C%20Templates%20and%20the%20STL.pdf)
 - Linux
-    - [Linux Device Drivers](./CertificateOfCompletion_Linux%20Device%20Drivers%20.pdf)
+    - [Linux Device Drivers](/certificates/CertificateOfCompletion_Linux%20Device%20Drivers%20.pdf)
 - C#
     - [C#: advanced practices](/certificates/CertificateOfCompletion_C%20Advanced%20Practices.pdf)
 - Automation
