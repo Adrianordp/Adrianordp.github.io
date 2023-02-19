@@ -21,11 +21,12 @@ layout: default
     - Aprendizado por Reforço: fundamentos
     - Treinando Rede Neural em Python
     - Desenvolvendo chatbots com Azure
-    - Treinando Redes Neurais em C++
+    - [Treinando Redes Neurais em C++](./CertificateOfCompletion_Training%20Neural%20Networks%20in%20C.pdf)
 - Python
     - [Construção de ferramentas com Python](./CertificateOfCompletion_Building%20Tools%20with%20Python.pdf)
     - [Usando Python para automação](./CertificateOfCompletion_Using%20Python%20for%20Automation.pdf)
     - [Python Avançado](./CertificateOfCompletion_Advanced%20Python.pdf)
+    - [Visão Computacional no Raspberry 4](./CertificateOfCompletion_Computer%20Vision%20on%20the%20Raspberry%20Pi%204.pdf)
 - C++
     - [C++: Tópicos Avançados](./CertificateOfCompletion_C%20Advanced%20Topics.pdf)
     - [C++: Templates e a STL](./CertificateOfCompletion_C%20Templates%20and%20the%20STL.pdf)

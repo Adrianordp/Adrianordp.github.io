@@ -21,12 +21,13 @@ layout: default_english
     - Reinforcement Learning: foundations
     - Training Neural Networks in Python
     - Developing chatbots with Azure
-    - Training Neural Networks in C++
+    - [Training Neural Networks in C++](/certificates/CertificateOfCompletion_Training%20Neural%20Networks%20in%20C.pdf)
 
 - Python
     - [Building tools with Python](/certificates/CertificateOfCompletion_Building%20Tools%20with%20Python.pdf)
     - [Using Python for automation](/certificates/CertificateOfCompletion_Using%20Python%20for%20Automation.pdf)
     - [Advanced Python](/certificates/CertificateOfCompletion_Advanced%20Python.pdf)
+    - [Computer Vision on the Raspberry Pi 4](/certificates/CertificateOfCompletion_Computer%20Vision%20on%20the%20Raspberry%20Pi%204.pdf)
 
 - C++
     - [C++: Advanced Topics](/certificates/CertificateOfCompletion_C%20Advanced%20Topics.pdf)
