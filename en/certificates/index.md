@@ -17,6 +17,8 @@ layout: default_english
     - [TensorFlow: Neural Networks and Working with Tables](/certificates/CertificateOfCompletion_TensorFlow%20Neural%20Networks%20and%20Working%20with%20Tables.pdf)
     - [Machine Learning with Python: foundations](/certificates/CertificateOfCompletion_Machine%20Learning%20with%20Python%20Foundations.pdf)
     - [Building and deploying Deep Learning application with TensorFlow](/certificates/CertificateOfCompletion_Building%20and%20Deploying%20Deep%20Learning%20Applications%20with%20TensorFlow.pdf)
+    - [Deep Learning: face recognition](/certificates/DeepLearningFaceRecognition.pdf)
+    - [Neural Networks and Convolutional Neural Networks: essential training](/certificates/NeuralNetworksAndConvolutionalNeuralNetworksEssentialTraining.pdf)
     - Deep Learning: model optimization and tuning
     - Reinforcement Learning: foundations
     - Training Neural Networks in Python
