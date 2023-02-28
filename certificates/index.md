@@ -17,7 +17,7 @@ layout: default
     - [TensorFlow: Redes Neurais e trabalhando com tabelas](./CertificateOfCompletion_TensorFlow%20Neural%20Networks%20and%20Working%20with%20Tables.pdf)
     - [Aprendizado de Máquina com Python: fundamentos](./CertificateOfCompletion_Machine%20Learning%20with%20Python%20Foundations.pdf)
     - [Construindo e implantando aplicação de Aprendizado Profundo com TensorFlow](/certificates/CertificateOfCompletion_Building%20and%20Deploying%20Deep%20Learning%20Applications%20with%20TensorFlow.pdf)
-    - [Aprendizado Profundo: recohecimento facial](./DeepLearningFaceRecognition.pdf)
+    - [Aprendizado Profundo: reconhecimento facial](./DeepLearningFaceRecognition.pdf)
     - [Redes Neurais e Redes Neurais Convolucionais: trainamento básico](./NeuralNetworksAndConvolutionalNeuralNetworksEssentialTraining.pdf)
     - Aprendizado Profundo: otimização de modelos e sintonia
     - Aprendizado por Reforço: fundamentos
